@@ -1,0 +1,44 @@
+body{
+    background-color: lightpink;
+    color: white;
+    font-size: 20px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#container{   
+    margin-left: 30%;   
+}
+
+input{
+    border-radius: 5px;
+    width: 50%;
+    height: 40px;
+}
+
+p{
+    text-align: center;
+}
+
+
+button{
+    font-size: 30px;
+    width: auto;
+    border-radius: 10px;
+    color: lightpink;
+    padding: 20px 30px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+}
+
+#bill{
+    text-align: center;
+    font-size: 30px;
+}
